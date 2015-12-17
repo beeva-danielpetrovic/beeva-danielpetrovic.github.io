@@ -4,10 +4,9 @@ layout: post
 title: "Capturing HTTP Header In JAX-RS"
 date: 2013-12-10 20:30
 comments: true
-category: java
+category: agile
 tags:
-- java
-- webservices
+- agile
 ---
 
 In this post i will explain you how to capture http-request header in JAX-RS.
