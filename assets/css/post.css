@@ -373,8 +373,8 @@ html, body, .notepad-post-container, .notepad-post-header {
 .notepad-page-menu-header,
 .notepad-post-menu-header-simple {
   width: 100%;
-  height: 5rem;
-  background-color: black;
+  height: 8rem;
+  background-color: white;
   color: white;
   position: relative;
   z-index: 9999; }
@@ -384,7 +384,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     max-height: 5rem; }
     .notepad-page-menu-header .notepad-blog-logo img,
     .notepad-post-menu-header-simple .notepad-blog-logo img {
-      max-height: 5rem; }
+      max-height: 8rem; }
 
 .notepad-page-title,
 .notepad-post-title-simple {
