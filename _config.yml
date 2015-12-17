@@ -13,7 +13,7 @@ url:        	 http://beeva-danielpetrovic.github.io/
 owner:
   name:           Daniel Petrovic
   avatar:         danielpetrovic.JPG
-  email:          ameyjadiye@gmail.com
+  email:          pegad222@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Programming is 1% knowledge, 2% ability and 97% getting the ability to work with the knowledge :)
   # Social networking links used in footer. Update and remove as you like.
@@ -43,7 +43,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Calcutta
+timezone:    Europe/Madrid
 future:      true
 highlighter: pygments
 markdown:    kramdown
